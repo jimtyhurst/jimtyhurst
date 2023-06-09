@@ -1,4 +1,4 @@
-I am a machine learning engineer with a PhD in Linguistics, doing statistical analysis, machine learning, and deep learning for the past few years. Previously, I was a software engineer developing enterprise software, so I know how to get from prototypes to production. That knowledge has transferred well to ML work.
+I am a data engineer with a PhD in Linguistics, doing statistical analysis, machine learning, and deep learning for the past few years. Previously, I was a software engineer developing enterprise software, so I know how to get from prototypes to production. That knowledge has transferred well to ML work.
 
 <!--
 **jimtyhurst/jimtyhurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
